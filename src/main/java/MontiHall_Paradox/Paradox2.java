@@ -66,7 +66,7 @@ public class Paradox2 {
             System.out.println("Выигрыш находится за дверью : "
                     + prizeDoor);
 
-            
+
             if (userDoor == prizeDoor) {
                 System.out.println("Поздравляем! Вы выиграли приз!");
             } else {
